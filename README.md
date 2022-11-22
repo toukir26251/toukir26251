@@ -19,7 +19,5 @@ Skills: PHP-Laravel, VueJs, ReactJs, MySQL, CSS, Bootstrap, GIT, CI/CD Jenkins
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toukir26251)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=toukir26251&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toukir26251)  
 
