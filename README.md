@@ -8,11 +8,16 @@ In recent years, I have completed multiple projects which are giving convincing 
 
 I have already took part to build several exciting projects by leading and working with different teams. Working under extreme pressure with limited time and quick learning are stronger part of my career.
 
-Skills: PHP-Laravel, VueJs, ReactJs, MySQL, CSS
+Skills: PHP-Laravel, VueJs, ReactJs, MySQL, CSS, Bootstrap, GIT, CI/CD Jenkins
 
-- 💬 Ask me about PHP-Laravel, VueJS, MySQL 
 - 📫 How to reach me: toukir.dev@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/toukir26251)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/toukir-26251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://toukirportfolio.web.app/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toukir26251)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=toukir26251&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=toukir26251)  
 
