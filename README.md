@@ -1,6 +1,8 @@
 ### Hi there, I'm Toukir Ibn Azad
 #### A LAMP Stack Developer
 ![A LAMP Stack Developer](https://media-exp1.licdn.com/dms/image/D5616AQEy7BV_cGfBpQ/profile-displaybackgroundimage-shrink_350_1400/0/1669098716324?e=1674691200&v=beta&t=RIRcq6QBBLWcH5gJYfJh9uc1JAtH4-yenkZDUZc7a9c)
+<br>
+<a href="https://github.com/toukir26251"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=toukir26251&style=plastic&color=blueviolet" width="125"/></a>
 
 I love to code, build useful stuff and take new challenges everyday. I have around 5 years' worth of experience working on various stages of the professional application development process.
 
